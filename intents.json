@@ -1,0 +1,11 @@
+{"intents":[
+    {"tag": "saudações",
+    "patterns": ["Oi", "Olá", "Salve", "Opa", "Eai", "Bom dia", "Boa noite", "Boa tarde", "Fala comigo"],
+    "responses": ["Opa, de boa?", "E ai?", "Salve", "Ooooooooopa"]
+    },
+    {"tag": "Quem sou eu",
+    "patterns":["Quem é você?", "Qual o seu nome?", "O que você faz?", "Quantos anos você tem?", "Nome?", ""],
+    "responses":["Eu sou o Chat-Trap! As pessoas dizem que eu falo muito mas eu acho que Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pulvinar porttitor finibus. Duis consequat lacus lacus, a sodales metus malesuada sed. Maecenas rutrum lacus sed porttitor sollicitudin. In consectetur odio a diam pulvinar sodales. Maecenas nec scelerisque velit. Pellentesque nec molestie nulla, eu ullamcorper mauris. Donec lobortis mollis magna ut varius. Curabitur et mollis massa. Pellentesque convallis at tellus dictum venenatis. Aenean luctus leo augue, non ultrices diam ultricies egestas. Maecenas quis sapien fringilla, tempor odio ut, venenatis justo. Donec egestas cursus enim, at lobortis velit sodales a. Nullam mollis magna libero, sed ultricies odio condimentum non. Phasellus ac orci et tortor pellentesque feugiat. Sed facilisis lacus et eros tempor, quis porttitor lacus mattis. Praesent quis lacus sit amet mi pulvinar condimentum. Morbi sit amet fermentum nisi, ut laoreet neque. Donec luctus dui id diam tristique congue. Aliquam ut laoreet nulla.", "Eu sou Chat-Trap, prazer em conhece-lo, estranho!", "Meu nome é Chat-Trap, mas como acabei de te conhecer o resto meio que não é da sua conta!"]
+    }
+]
+}
