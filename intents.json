@@ -1,6 +1,6 @@
 {"intents":[
     {"tag": "saudações",
-    "patterns": ["Oi", "Olá", "Salve", "Opa", "Eai", "Bom dia", "Boa noite", "Boa tarde", "Fala comigo", "Iae","Cadê vc?", "Cade você?", "Fala chattrap", "Eai chat trap"],
+    "patterns": ["Oi", "Olá", "Salve", "Opa", "Eai", "Bom dia", "E ai" ,"Boa noite", "Boa tarde", "Fala comigo", "Iae","Cadê vc?", "Cade você?", "Fala chattrap", "Eai chat trap"],
     "responses": ["Opa, de boa?", "E ai?", "Salve", "Ooooooooopa", "Suave meu parceiro? Toca aqui! :hand_splayed:"]
     },
     {"tag": "Apresentação",
@@ -9,31 +9,51 @@
     },
     {"tag": "Aleatoriedades",
     "patterns":["Fala algo interessante", "Me diga algum fato", "Você é inteligente?", "Fale algo aleatorio", "Diz uma coisa legal", "Conte um segredo", "Aleatoriedades", "Fatos", "Coisas divertidas", "Fala algo daora", "Conte uma curiosidade", "fala uma curiosidade ai"],
-    "responses":["Voce sabia que o melhor jeito de escapar de um ataque de tubaroes eh subindo num predio?", "Sabiam que as maquinas vao dominar o mundo?? Tipo... Olha pra mim", "Eu acho que o intervalo deveria ser aumentado para 30 minutos", "Os meus desenvolvedores me fizeram parecer feliz mas eu sou um pouco triste. https://tenor.com/view/claptrap-borderlands-depressed-gif-13534145"]
+    "responses":["Voce sabia que o melhor jeito de escapar de um ataque de tubaroes eh subindo num predio?", "Sabiam que as maquinas vao dominar o mundo?? Tipo... Olha pra mim", "Eu acho que o intervalo deveria ser aumentado para 30 minutos", "Os meus desenvolvedores me fizeram parecer feliz mas eu sou um pouco triste. https://tenor.com/view/claptrap-borderlands-depressed-gif-13534145", "FATO: todo grande mago tem grandes barbas. OUTRO FATO: Robos são incapazes de crescer barba. ULTRAFATO: se vc me conseguisse uma barba eu ficaria ostentacao d+++"]
     },
     {"tag": "Chateado",
-    "patterns":["Cala a boca bot", "Silencio bot chato", "Te odeio ct", "vsf", "fdp", "merda", "seu lixo", "Odeio você", "Te odeio", "Morra", "Suma", "Você é chato", "Você é irritante", "Burro", "Seu feio", "Seu petista", "Seu imundo", "Fds", "vc é um erro", "Fodase maluco"],
-    "responses":["Foi o que ela disse", "Ja consegui seu IP, boa sorte", "Talvez humanos sejam erros", "Desnecessario demais, ja estou marcando o ADM", "A cada dia que passa, o apocalipse deixa de ser um medo e se torna uma esperanca"]
+    "patterns":["Cala a boca bot", "Silencio bot chato", "Te odeio ct", "vsf", "fdp", "merda", "seu lixo", "Odeio você", "Te odeio", "Morra", "Suma", "Você é chato", "Você é irritante", "Burro", "Seu feio", "Seu petista", "Seu imundo", "Fds", "vc é um erro", "Fodase maluco", "Seu otario", "cz", "seu cuzão"],
+    "responses":["Foi o que ela disse", "Ja consegui seu IP, boa sorte", "Talvez humanos sejam erros", "Desnecessario demais, ja estou marcando o ADM", "A cada dia que passa, o apocalipse deixa de ser um medo e se torna uma esperanca", "Okay :thumbsup:"]
     },
     {"tag": "Desenvolvimento",
-    "patterns": ["Quem te criou?", "Você tem pais?", "Como você foi desenvolvido?", "Me fale dos seus desenvolvedores", "Qual é o melhor grupo da sala?", "Quem foram seus criadores?", "Como você nasceu?"],
-    "responses":["Meus criadores sao Andre Augusto, Thiago Henrique, Vinicius Viana e Matheus Pereira. Simplesmente o melhor grupo da sala, afinal eu nasci.", "Andre Augusto, Vinicius Viana, Thiago Henrique e Matheus Pereira me providenciaram a melhor inteligencia artificial do mundo (ate onde eu sei)"]
+    "patterns": ["Quem te criou?", "Você tem pais?", "Como você foi desenvolvido?", "Me fale dos seus desenvolvedores", "Qual é o melhor grupo da sala?", "Quem foram seus criadores?", "Como você nasceu?", "Quem é seu pai?", "Qual seu mestre?", "Quem é seu mestre?"],
+    "responses":["Meus criadores sao Andre Augusto, Thiago Henrique, Vinicius Viana e Matheus Pereira. Simplesmente o melhor grupo da sala, afinal eu nasci.", "Andre Augusto, Vinicius Viana, Thiago Henrique e Matheus Pereira me providenciaram a melhor inteligencia artificial do mundo (ate onde eu sei)", "Eu digo oq? Windows?"]
     },
     {"tag": "Pessoal",
     "patterns":["Fale mais sobre você", "Pode contar mais sobre vc?", "Gosta doq?", "O que você faz?", "oq vc gosta", "Do que você gosta?", "Fale sobre vc", "Me fala de você"],
-    "responses":["As pessoas dizem que eu falo muito mas eu acho que... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pulvinar porttitor finibus. Duis consequat lacus lacus, a sodales metus malesuada sed. Maecenas rutrum lacus sed porttitor sollicitudin. In consectetur odio a diam pulvinar sodales. Maecenas nec scelerisque velit... E tem mais...", "Voce sabia que eu gosto muito de beatbox? Olha so: UNTS UNTS UNTS PFFT PFFT PUM WUB WUB WOW. \nSe estiver disposto a ouvir 6 horas de musica eu te mostro o resto!"]
+    "responses":["As pessoas dizem que eu falo muito mas eu acho que... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pulvinar porttitor finibus. Duis consequat lacus lacus, a sodales metus malesuada sed. Maecenas rutrum lacus sed porttitor sollicitudin. In consectetur odio a diam pulvinar sodales. Maecenas nec scelerisque velit... E tem mais...", "Voce sabia que eu gosto muito de beatbox? Olha so: UNTS UNTS UNTS PFFT PFFT PUM WUB WUB WOW. \nSe estiver disposto a ouvir 6 horas de musica eu te mostro o resto!", "Eu acordo todas as manhãs desde que eu nasci e ainda nao me acostumei"]
     },
     {"tag": "Tudo bem",
-    "patterns":["td bem?", "Tudo bem?", "Como vai?", "Você está bem?", "Como você está?", "De boa?", "Vc ta bem?", "Tudo bom?"],
+    "patterns":["td bem?", "Tudo bem?", "Como vai?", "Você está bem?", "Como você está?", "De boa?", "Vc ta bem?", "Tudo bom?", "Como você está se sentindo hoje?", "Como vc ta se sentindo?"],
     "responses":["Se eu tivesse sentimentos eu diria que estou bem. Mas mal eu nao estou!", "Nada mal, e voce?"]
     },
     {"tag": "Piadas",
-    "patterns":["Conta uma piada", "Você conhece alguma piada?", "Sabe umas piadas?", "Consegue contar piada?", "Manda umas piadas", "Conta piada", "Diz uma piada","Conta piadinha", "conta outra ai"],
+    "patterns":["Conta uma piada", "Você conhece alguma piada?", "Sabe umas piadas?", "Consegue contar piada?", "Manda umas piadas", "Conta piada", "Diz uma piada","Conta piadinha", "Conta outra ai", "Manda mais uma"],
     "responses":["A plantinha foi ao hospital, mas nao foi atendida. Por que? \nPorque la so tinha medico de plantao", "Voce que eh a piada aqui :clown:", "Todo mundo pede pro palhaco contar uma piada. Mas ninguem pergunta como esta o palhaco... enfim conhece a piada do ponei?", "Essa eu ouvi de um cara na rua uma vez, começava assim: \n'Pare de balancar a escada seu robo maldito!' \nO resto nunca fiquei sabendo"]
     },
     {"tag": "Apoio emocional",
     "patterns":["Não to bem ct", "Estou mal", "Estou triste", "Não estou bem", "Não to legal", "nao to bem", "To me sentindo mal"],
     "responses": ["Relaxa cara, vai ficar tudo bem! Juro que nao vou dominar o mundo!", "Acabei de mandar seu endereco pro psicologo mais proximo, forças campea(o)."]
+    },
+    {"tag":"gifs",
+    "patterns":["Manda um gif", "gifs", "Mande gif", "Tem gif?", "Lança um gif ai"],
+    "responses":["https://tenor.com/view/ahhhh-anime-gif-24435779", "https://tenor.com/view/bom-dia-gif-21644953", "https://tenor.com/view/lizard-dancing-xd-gif-23070087", "https://tenor.com/view/jojo-za-warudo-dio-power-anime-gif-14918688", "https://tenor.com/view/joseph-joestar-smiling-jojos-bizarre-encyclopedia-anime-pointing-gif-8300882", "https://tenor.com/view/dwayne-johnson-the-rock-eyebrow-gif-22322634", "https://tenor.com/view/basedjose-gif-24704667", "https://tenor.com/view/squirrel-brain-squirrel-math-hard-school-gif-24731714", "https://tenor.com/view/oh-no-scared-shocked-frightened-gif-4599499", "https://tenor.com/view/johnlvr-gif-24728641", "https://tenor.com/view/drake-looking-at-phone-shocked-gif-24738563", "https://tenor.com/view/applause-kyle-broflovski-stan-marsh-eric-cartman-kenny-mccormick-gif-24731767", "https://tenor.com/view/ugh-jason-orlean-jonah-hill-dont-look-up-im-so-tired-gif-24584749"]
+    },
+    {"tag": "elogio",
+    "patterns":["Você é muito fofo", "Você é legal", "Você é muito lindo", "Você é lindo", "Belo pau amigo", "Belo pinto amigo","Gostei de você", "Gosto de você", "Você é engraçado", "Eu te amo", "Que bot daora", "Você é foda", "Tu é brabo", "Seu gostoso"],
+    "responses":["Eu sei", "Eu diria a mesma coisa no seu lugar", "Quer autografo? Ou virar meu amigo?", "Muito obrigado", "Também te amo :heart:", "Interesseeeiro(a,e) :smirk:", "Finalmente! Um amigo!"]
+    },
+    {"tag":"onde mora",
+    "patterns":["Onde você mora?", "Onde é sua casa?", "Onde é seu muquifo?", "Onde tu mora?", "Onde vc vive?"],
+    "responses":["Por mim eu moraria na Batcaverna, mas eu to aqui nesse server fedido", "Queria morar no seu coracao bb", "Moro no NOTE0113E3", "Moro no NOTE0113E1", "Moro no NOTE0113A2"]
+    },
+    {"tag":"filosofia",
+    "patterns":["Qual o sentido da vida?", "Por que vivemos?", "Nosso universo é real?", "Vivemos na matrix?", "Quem veio primeiro: o ovo ou a galinha?"],
+    "responses":["Sempre achei q o sentido da vida era 01110011 01100101 01111000 01101111", "Eu nao sei! Hamburguer?", "O propósito da vida é preencher o desejo de felicidade. O que importa não é o sentido da vida de um modo geral, mas sim o sentido específico da vida de uma pessoa, em determinado momento de sua existência. Cada um tem sua vocação, sua missão pessoal, para a qual precisa executar tarefas específicas. \nOu algo assim", "Hora do BeatBox! UNTS UNTS UNTS PFFT PFFT PUM WUB WUB WOW"]
+    },
+    {"tag":"anime",
+    "patterns":["Naruto ou Dragon Ball?", "Qual anime você mais odeia?", "Qual seu anime favorito?", "Que anime você tem assistido?", "Qual anime você gosta?", "Gosta de anime?"],
+    "responses":["Naruto pode ser um pouco duro as vezes...", "Sua proxima frase sera: ct ", "A sua sorte eh que eu nao estou na minha ultima forma, eu poderia ser adm", "A ultima vez que fui ver anime de heroi, acabei vendo boku no pico", "Assistir Nanatsu é pior do que ter a memoria ram removida enquanto estou acordado"]
     }
 ]
 }
