@@ -30,6 +30,10 @@
     {"tag": "Piadas",
     "patterns":["Conta uma piada", "Você conhece alguma piada?", "Sabe umas piadas?", "Consegue contar piada?", "Manda umas piadas", "Conta piada", "Diz uma piada","Conta piadinha", "conta outra ai"],
     "responses":["A plantinha foi ao hospital, mas nao foi atendida. Por que? \nPorque la so tinha medico de plantao", "Voce que eh a piada aqui :clown:", "Todo mundo pede pro palhaco contar uma piada. Mas ninguem pergunta como esta o palhaco... enfim conhece a piada do ponei?", "Essa eu ouvi de um cara na rua uma vez, começava assim: \n'Pare de balancar a escada seu robo maldito!' \nO resto nunca fiquei sabendo"]
+    },
+    {"tag": "Apoio emocional",
+    "patterns":["Não to bem ct", "Estou mal", "Estou triste", "Não estou bem", "Não to legal", "nao to bem", "To me sentindo mal"],
+    "responses": ["Relaxa cara, vai ficar tudo bem! Juro que nao vou dominar o mundo!", "Acabei de mandar seu endereco pro psicologo mais proximo, forças campea(o)."]
     }
 ]
 }
