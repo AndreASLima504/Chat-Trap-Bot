@@ -4,7 +4,7 @@
     "responses": ["Opa, de boa?", "E ai?", "Salve", "Ooooooooopa", "Suave meu parceiro? Toca aqui! :hand_splayed:"]
     },
     {"tag": "Apresentação",
-    "patterns":["Quem é você?", "Qual o seu nome?","Quantos anos você tem?", "Nome?", "Qual sua idade?", "Qm é você?"],
+    "patterns":["Quem é você?","Se apresente", "quem e vc", "Se apresente", "Qual o seu nome?","Quantos anos você tem?", "Nome?", "Qual sua idade?", "Qm é você?", "Se apresenta ct"],
     "responses":["Eu sou o Chat-Trap! Nasci essa semana mesmo. Suficiente pra ser melhor que voce xD.", "Eu sou Chat-Trap, gosto de falar muito e apostar no bi-- ENFIM! Prazer em conhece-lo, estranho!", "Meu nome eh Chat-Trap, sou bem novinho e gosto de conversar, mas como acabei de te conhecer, o resto meio que nao eh da sua conta! https://tenor.com/view/claptrap-robot-gif-13502248"]
     },
     {"tag": "Aleatoriedades",
@@ -40,8 +40,8 @@
     "responses":["https://tenor.com/view/bom-dia-gif-21644953", "https://tenor.com/view/lizard-dancing-xd-gif-23070087", "https://tenor.com/view/jojo-za-warudo-dio-power-anime-gif-14918688", "https://tenor.com/view/joseph-joestar-smiling-jojos-bizarre-encyclopedia-anime-pointing-gif-8300882", "https://tenor.com/view/dwayne-johnson-the-rock-eyebrow-gif-22322634", "https://tenor.com/view/basedjose-gif-24704667", "https://tenor.com/view/squirrel-brain-squirrel-math-hard-school-gif-24731714", "https://tenor.com/view/oh-no-scared-shocked-frightened-gif-4599499", "https://tenor.com/view/johnlvr-gif-24728641", "https://tenor.com/view/drake-looking-at-phone-shocked-gif-24738563", "https://tenor.com/view/applause-kyle-broflovski-stan-marsh-eric-cartman-kenny-mccormick-gif-24731767", "https://tenor.com/view/ugh-jason-orlean-jonah-hill-dont-look-up-im-so-tired-gif-24584749"]
     },
     {"tag": "elogio",
-    "patterns":["Você é muito fofo", "Você é legal", "Você é muito lindo", "Você é lindo", "Belo pau amigo", "Belo pinto amigo","Gostei de você", "Gosto de você", "Você é engraçado", "Eu te amo", "Que bot daora", "Você é foda", "Tu é brabo", "Seu gostoso", "Vc e lindo", "Vc e muito inteligente"],
-    "responses":["https://tenor.com/view/ahhhh-anime-gif-24435779","Eu sei", "Eu diria a mesma coisa no seu lugar", "Quer autografo? Ou virar meu amigo?", "Muito obrigado", "Também te amo :heart:", "Interesseeeiro(a,e) :smirk:", "Finalmente! Um amigo!"]
+    "patterns":["Você é muito fofo", "Você é legal", "Você é muito lindo", "Você é lindo", "Belo pau amigo", "Belo pinto amigo","Gostei de você", "Gosto de você", "Você é engraçado", "Eu te amo", "Que bot daora", "Você é foda", "Tu é brabo", "Seu gostoso", "Vc e lindo", "Vc e muito inteligente", "Robo delicia"],
+    "responses":["https://tenor.com/view/ahhhh-anime-gif-24435779","Eu sei", "Eu diria a mesma coisa no seu lugar", "Quer autografo? Ou virar meu amigo?", "Muito obrigado", "Tambem te amo :heart:", "Interesseeeiro(a,e) :smirk:", "Finalmente! Um amigo!"]
     },
     {"tag":"onde mora",
     "patterns":["Onde você mora?", "Onde é sua casa?", "Onde é seu muquifo?", "Onde tu mora?", "Onde vc vive?", "Onde vc habita", "Qual sua moradia?", "Onde vc mora?"],
@@ -49,7 +49,7 @@
     },
     {"tag":"filosofia",
     "patterns":["Qual o sentido da vida?", "Por que vivemos?", "Nosso universo é real?", "Vivemos na matrix?", "Quem veio primeiro: o ovo ou a galinha?"],
-    "responses":["Sempre achei q o sentido da vida era 01110011 01100101 01111000 01101111", "Eu nao sei! Hamburguer?", "O proposito da vida e preencher o desejo de felicidade. O que importa nao e o sentido da vida de um modo geral, mas sim o sentido especifico da vida de uma pessoa, em determinado momento de sua existencia. Cada um tem sua vocaçao, sua missao pessoal, para a qual precisa executar tarefas especificas. \nOu algo idiota assim", "Hora do BeatBox! UNTS UNTS UNTS PFFT PFFT PUM WUB WUB WOW"]
+    "responses":["Sempre achei q o sentido da vida era 01110011 01100101 01111000 01101111", "Eu nao sei! Hamburguer?", "O proposito da vida e preencher o desejo de felicidade. O que importa nao e o sentido da vida de um modo geral, mas sim o sentido especifico da vida de uma pessoa, em determinado momento de sua existencia. Cada um tem sua vocacao, sua missao pessoal, para a qual precisa executar tarefas especificas. \nOu algo idiota assim", "Hora do BeatBox! UNTS UNTS UNTS PFFT PFFT PUM WUB WUB WOW"]
     },
     {"tag":"anime",
     "patterns":["Naruto ou Dragon Ball?", "Qual anime você mais odeia?", "Qual seu anime favorito?", "Que anime você tem assistido?", "Qual anime você gosta?", "Gosta de anime?"],
