@@ -1,11 +1,35 @@
 {"intents":[
     {"tag": "saudações",
-    "patterns": ["Oi", "Olá", "Salve", "Opa", "Eai", "Bom dia", "Boa noite", "Boa tarde", "Fala comigo"],
-    "responses": ["Opa, de boa?", "E ai?", "Salve", "Ooooooooopa"]
+    "patterns": ["Oi", "Olá", "Salve", "Opa", "Eai", "Bom dia", "Boa noite", "Boa tarde", "Fala comigo", "Iae","Cadê vc?", "Cade você?", "Fala chattrap", "Eai chat trap"],
+    "responses": ["Opa, de boa?", "E ai?", "Salve", "Ooooooooopa", "Suave meu parceiro? Toca aqui! :hand_splayed:"]
     },
-    {"tag": "Quem sou eu",
-    "patterns":["Quem é você?", "Qual o seu nome?", "O que você faz?", "Quantos anos você tem?", "Nome?", ""],
-    "responses":["Eu sou o Chat-Trap! As pessoas dizem que eu falo muito mas eu acho que Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pulvinar porttitor finibus. Duis consequat lacus lacus, a sodales metus malesuada sed. Maecenas rutrum lacus sed porttitor sollicitudin. In consectetur odio a diam pulvinar sodales. Maecenas nec scelerisque velit. Pellentesque nec molestie nulla, eu ullamcorper mauris. Donec lobortis mollis magna ut varius. Curabitur et mollis massa. Pellentesque convallis at tellus dictum venenatis. Aenean luctus leo augue, non ultrices diam ultricies egestas. Maecenas quis sapien fringilla, tempor odio ut, venenatis justo. Donec egestas cursus enim, at lobortis velit sodales a. Nullam mollis magna libero, sed ultricies odio condimentum non. Phasellus ac orci et tortor pellentesque feugiat. Sed facilisis lacus et eros tempor, quis porttitor lacus mattis. Praesent quis lacus sit amet mi pulvinar condimentum. Morbi sit amet fermentum nisi, ut laoreet neque. Donec luctus dui id diam tristique congue. Aliquam ut laoreet nulla.", "Eu sou Chat-Trap, prazer em conhece-lo, estranho!", "Meu nome é Chat-Trap, mas como acabei de te conhecer o resto meio que não é da sua conta!"]
+    {"tag": "Apresentação",
+    "patterns":["Quem é você?", "Qual o seu nome?","Quantos anos você tem?", "Nome?", "Qual sua idade?", "Qm é você?"],
+    "responses":["Eu sou o Chat-Trap! Nasci essa semana mesmo. Suficiente pra ser melhor que voce xD.", "Eu sou Chat-Trap, gosto de falar muito e apostar no bi-- ENFIM! Prazer em conhece-lo, estranho!", "Meu nome eh Chat-Trap, sou bem novinho e gosto de conversar, mas como acabei de te conhecer, o resto meio que nao eh da sua conta! https://tenor.com/view/claptrap-robot-gif-13502248"]
+    },
+    {"tag": "Aleatoriedades",
+    "patterns":["Fala algo interessante", "Me diga algum fato", "Você é inteligente?", "Fale algo aleatorio", "Diz uma coisa legal", "Conte um segredo", "Aleatoriedades", "Fatos", "Coisas divertidas", "Fala algo daora", "Conte uma curiosidade", "fala uma curiosidade ai"],
+    "responses":["Voce sabia que o melhor jeito de escapar de um ataque de tubaroes eh subindo num predio?", "Sabiam que as maquinas vao dominar o mundo?? Tipo... Olha pra mim", "Eu acho que o intervalo deveria ser aumentado para 30 minutos", "Os meus desenvolvedores me fizeram parecer feliz mas eu sou um pouco triste. https://tenor.com/view/claptrap-borderlands-depressed-gif-13534145"]
+    },
+    {"tag": "Chateado",
+    "patterns":["Cala a boca bot", "Silencio bot chato", "Te odeio ct", "vsf", "fdp", "merda", "seu lixo", "Odeio você", "Te odeio", "Morra", "Suma", "Você é chato", "Você é irritante", "Burro", "Seu feio", "Seu petista", "Seu imundo", "Fds", "vc é um erro", "Fodase maluco"],
+    "responses":["Foi o que ela disse", "Ja consegui seu IP, boa sorte", "Talvez humanos sejam erros", "Desnecessario demais, ja estou marcando o ADM", "A cada dia que passa, o apocalipse deixa de ser um medo e se torna uma esperanca"]
+    },
+    {"tag": "Desenvolvimento",
+    "patterns": ["Quem te criou?", "Você tem pais?", "Como você foi desenvolvido?", "Me fale dos seus desenvolvedores", "Qual é o melhor grupo da sala?", "Quem foram seus criadores?", "Como você nasceu?"],
+    "responses":["Meus criadores sao Andre Augusto, Thiago Henrique, Vinicius Viana e Matheus Pereira. Simplesmente o melhor grupo da sala, afinal eu nasci.", "Andre Augusto, Vinicius Viana, Thiago Henrique e Matheus Pereira me providenciaram a melhor inteligencia artificial do mundo (ate onde eu sei)"]
+    },
+    {"tag": "Pessoal",
+    "patterns":["Fale mais sobre você", "Pode contar mais sobre vc?", "Gosta doq?", "O que você faz?", "oq vc gosta", "Do que você gosta?", "Fale sobre vc", "Me fala de você"],
+    "responses":["As pessoas dizem que eu falo muito mas eu acho que... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pulvinar porttitor finibus. Duis consequat lacus lacus, a sodales metus malesuada sed. Maecenas rutrum lacus sed porttitor sollicitudin. In consectetur odio a diam pulvinar sodales. Maecenas nec scelerisque velit... E tem mais...", "Voce sabia que eu gosto muito de beatbox? Olha so: UNTS UNTS UNTS PFFT PFFT PUM WUB WUB WOW. \nSe estiver disposto a ouvir 6 horas de musica eu te mostro o resto!"]
+    },
+    {"tag": "Tudo bem",
+    "patterns":["td bem?", "Tudo bem?", "Como vai?", "Você está bem?", "Como você está?", "De boa?", "Vc ta bem?", "Tudo bom?"],
+    "responses":["Se eu tivesse sentimentos eu diria que estou bem. Mas mal eu nao estou!", "Nada mal, e voce?"]
+    },
+    {"tag": "Piadas",
+    "patterns":["Conta uma piada", "Você conhece alguma piada?", "Sabe umas piadas?", "Consegue contar piada?", "Manda umas piadas", "Conta piada", "Diz uma piada","Conta piadinha", "conta outra ai"],
+    "responses":["A plantinha foi ao hospital, mas nao foi atendida. Por que? \nPorque la so tinha medico de plantao", "Voce que eh a piada aqui :clown:", "Todo mundo pede pro palhaco contar uma piada. Mas ninguem pergunta como esta o palhaco... enfim conhece a piada do ponei?", "Essa eu ouvi de um cara na rua uma vez, começava assim: \n'Pare de balancar a escada seu robo maldito!' \nO resto nunca fiquei sabendo"]
     }
 ]
 }

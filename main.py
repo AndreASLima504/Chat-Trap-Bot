@@ -1,8 +1,10 @@
 import discord
 import os
 import nltk
+from dotenv import load_dotenv
 from neuralintents import GenericAssistant
 
+load_dotenv()
 
 client = discord.Client()
 
@@ -10,7 +12,8 @@ chattrap = GenericAssistant('intents.json')
 chattrap.train_model()
 chattrap.save_model()
 
-TOKEN = "OTM4MDU4ODE0ODc0MzI1MDAy.YfkxWQ.xKK_rOniucnWRBG165kI0duM8ig"
+TOKEN = os.getenv('TOKEN')
+# TOKEN = 'OTM4MDU4ODE0ODc0MzI1MDAy.YfkxWQ.UtjEUio2s51g20lb2JouxkkxvLE'
 
 @client.event
 async def on_connect():
