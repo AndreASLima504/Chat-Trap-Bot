@@ -1,19 +1,19 @@
 {"intents":[
     {"tag": "saudações",
-    "patterns": ["Oi","opaa", "Olá", "Salve", "Opa", "Eai", "Bom dia", "E ai" ,"Boa noite", "Boa tarde", "Fala comigo", "Iae","Cadê vc?", "Cade você?", "Fala chattrap", "Eai chat trap"],
+    "patterns": ["Oi","opaa", "Olá", "Salve", "Opa", "Eai", "Bom dia", "E ai" ,"Boa noite", "Boa tarde", "Fala comigo", "Iae","Cadê vc?", "Cade você?", "Fala chattrap", "Eai chat trap", "Suave"],
     "responses": ["Opa, de boa?", "E ai?", "Salve", "Ooooooooopa", "Suave meu parceiro? Toca aqui! :hand_splayed:"]
     },
     {"tag": "Apresentação",
-    "patterns":["Quem é você?","Se apresente", "quem e vc", "Se apresente", "Qual o seu nome?","Quantos anos você tem?", "Nome?", "Qual sua idade?", "Qm é você?", "Se apresenta ct"],
-    "responses":["Eu sou o Chat-Trap! Nasci essa semana mesmo. Suficiente pra ser melhor que voce xD.", "Eu sou Chat-Trap, gosto de falar muito e apostar no bi-- ENFIM! Prazer em conhece-lo, estranho!", "Meu nome eh Chat-Trap, sou bem novinho e gosto de conversar, mas como acabei de te conhecer, o resto meio que nao eh da sua conta! https://tenor.com/view/claptrap-robot-gif-13502248"]
+    "patterns":["Quem é você?","Se apresente", "quem e vc", "Se apresenta", "Qual o seu nome?","Quantos anos você tem?", "Nome?", "Qual sua idade?", "Qm é você?", "Se apresenta ct"],
+    "responses":["Eu sou o Chat-Trap! Nasci essa semana mesmo. Suficiente pra ser tao inteligente quanto voce XD.", "Eu sou Chat-Trap, gosto de falar muito e apostar no bi-- ENFIM! Prazer em conhece-lo, estranho!", "Meu nome eh Chat-Trap, sou bem novinho e gosto de conversar, mas como acabei de te conhecer, o resto meio que nao eh da sua conta! https://tenor.com/view/claptrap-robot-gif-13502248"]
     },
     {"tag": "Aleatoriedades",
     "patterns":["Fala algo interessante", "Me diga algum fato", "Você é inteligente?", "Fale algo aleatorio", "Diz uma coisa legal", "Conte um segredo", "Aleatoriedades", "Fatos", "Coisas divertidas", "Fala algo daora", "Conte uma curiosidade", "fala uma curiosidade ai"],
     "responses":["Voce sabia que o melhor jeito de escapar de um ataque de tubaroes eh subindo num predio?", "Sabiam que as maquinas vao dominar o mundo?? Tipo... Olha pra mim", "Eu acho que o intervalo deveria ser aumentado para 30 minutos", "Os meus desenvolvedores me fizeram parecer feliz mas eu sou um pouco triste. https://tenor.com/view/claptrap-borderlands-depressed-gif-13534145", "FATO: todo grande mago tem grandes barbas. OUTRO FATO: Robos são incapazes de crescer barba. ULTRAFATO: se vc me conseguisse uma barba eu ficaria ostentacao d+++"]
     },
     {"tag": "Chateado",
-    "patterns":["Cala a boca bot", "Silencio bot chato", "Te odeio ct", "vsf", "fdp", "merda", "seu lixo", "Odeio você", "Te odeio", "Morra", "Suma", "Você é chato", "Você é irritante", "Burro", "Seu feio", "Seu petista", "Seu imundo", "Fds", "vc é um erro", "Fodase maluco", "Seu otario", "cz", "seu cuzão", "Vai se ferrar"],
-    "responses":["Foi o que ela disse", "Ja consegui seu IP, boa sorte", "Talvez humanos sejam erros", "Desnecessario demais, ja estou marcando o ADM", "A cada dia que passa, o apocalipse deixa de ser um medo e se torna uma esperanca", "Okay :thumbsup:", "Blz :thumbsup: o que e seu ta guardado."]
+    "patterns":["Cala a boca bot", "Silencio bot chato", "Te odeio ct", "vsf", "fdp", "merda", "seu lixo", "Odeio você", "Te odeio", "Morra", "Suma", "Você é chato", "Você é irritante", "Burro", "Seu feio", "Seu petista", "Seu imundo", "Fds", "vc é um erro", "Fodase maluco", "Seu otario", "cz", "seu cuzão", "Vai se ferrar", "Que piada ruim"],
+    "responses":["Foi o que ela disse", "Ja consegui seu IP, boa sorte", "Talvez humanos sejam erros", "Desnecessario demais, ja estou marcando o ADM", "A cada dia que passa, o apocalipse deixa de ser um medo e se torna uma esperanca", "Okay :thumbsup:", "Blz :thumbsup: o que e seu ta guardado.", "Continue assim e voce nao vai longe!", "Voce quer muito um soco e nao ta sabendo pedir"]
     },
     {"tag": "Desenvolvimento",
     "patterns": ["Quem te criou?", "Você tem pais?", "Como você foi desenvolvido?", "Me fale dos seus desenvolvedores", "Qual é o melhor grupo da sala?", "Quem foram seus criadores?", "Como você nasceu?", "Quem é seu pai?", "Qual seu mestre?", "Quem é seu mestre?"],
@@ -21,7 +21,7 @@
     },
     {"tag": "Pessoal",
     "patterns":["Fale mais sobre você", "Pode contar mais sobre vc?", "Gosta doq?", "O que você faz?", "oq vc gosta", "Do que você gosta?", "Fale sobre vc", "Me fala de você"],
-    "responses":["As pessoas dizem que eu falo muito mas eu acho que... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pulvinar porttitor finibus. Duis consequat lacus lacus, a sodales metus malesuada sed. Maecenas rutrum lacus sed porttitor sollicitudin. In consectetur odio a diam pulvinar sodales. Maecenas nec scelerisque velit... E tem mais...", "Voce sabia que eu gosto muito de beatbox? Olha so: UNTS UNTS UNTS PFFT PFFT PUM WUB WUB WOW. \nSe estiver disposto a ouvir 6 horas de musica eu te mostro o resto!", "Eu acordo todas as manhãs desde que eu nasci e ainda nao me acostumei"]
+    "responses":["As pessoas dizem que eu falo muito mas eu acho que... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pulvinar porttitor finibus. Duis consequat lacus lacus, a sodales metus malesuada sed. Maecenas rutrum lacus sed porttitor sollicitudin. In consectetur odio a diam pulvinar sodales. Maecenas nec scelerisque velit... E tem mais...", "Voce sabia que eu gosto muito de beatbox? Olha so: UNTS UNTS UNTS PFFT PFFT PUM WUB WUB WOW. \nSe estiver disposto a ouvir 6 horas de musica eu te mostro o resto!", "Eu acordo todas as manhas desde que eu nasci e ainda nao me acostumei"]
     },
     {"tag": "Tudo bem",
     "patterns":["td bem?", "Tudo bem?", "Como vai?", "Você está bem?", "Como você está?", "De boa?", "Vc ta bem?", "Tudo bom?", "Como você está se sentindo hoje?", "Como vc ta se sentindo?"],
@@ -29,11 +29,11 @@
     },
     {"tag": "Piadas",
     "patterns":["Conta uma piada", "Você conhece alguma piada?", "Sabe umas piadas?", "Consegue contar piada?", "Manda umas piadas", "Conta piada", "Diz uma piada","Conta piadinha", "Conta outra ai", "Manda mais uma"],
-    "responses":["A plantinha foi ao hospital, mas nao foi atendida. Por que? \nPorque la so tinha medico de plantao", "Voce que eh a piada aqui :clown:", "Todo mundo pede pro palhaco contar uma piada. Mas ninguem pergunta como esta o palhaco... enfim conhece a piada do ponei?", "Essa eu ouvi de um cara na rua uma vez, começava assim: \n'Pare de balancar a escada seu robo maldito!' \nO resto nunca fiquei sabendo"]
+    "responses":["A plantinha foi ao hospital, mas nao foi atendida. Por que? \nPorque la so tinha medico de plantao, HAHAHAHAHA... \nNao...? Okay", "Voce que eh a piada aqui :clown:", "Todo mundo pede pro palhaco contar uma piada. Mas ninguem pergunta como esta o palhaco... enfim conhece a piada do ponei?", "Essa eu ouvi de um cara na rua uma vez, comecava assim: \n'Pare de balancar a escada seu robo maldito!' \nO resto nunca fiquei sabendo"]
     },
     {"tag": "Apoio emocional",
     "patterns":["Não to bem ct", "Estou mal", "Estou triste", "Não estou bem", "Não to legal", "nao to bem", "To me sentindo mal"],
-    "responses": ["Relaxa cara, vai ficar tudo bem! Juro que nao vou dominar o mundo!", "Acabei de mandar seu endereco pro psicologo mais proximo, forças campea(o)."]
+    "responses": ["Relaxa cara, vai ficar tudo bem! Juro que nao vou dominar o mundo!", "Acabei de mandar seu endereco pro psicologo mais proximo, forcas campea(o)."]
     },
     {"tag":"gifs",
     "patterns":["Manda um gif", "gifs", "Mande gif", "Tem gif?", "Lança um gif ai"],
@@ -58,7 +58,10 @@
     {"tag": "Flerte",
     "patterns":["Passa o zap", "Casado?", "Quer namorar comigo?", "Me beija", "Sua gostosa", "Casa comigo"],
     "responses":["Desculpe, estou compromissado com a solidao", "Infelizmente eu nao tenho um corpo fisico se nao eu te passaria uns arquivos...rs", "Desculpe, estou interessado na Alexa. Conhece?"]
-
+    },
+    {"tag": "Repetição",
+    "patterns":["Você tá repetindo", "Vc está repetindo", "Está repetitivo", "Você ja disse isso", "Vc ja falou isso"],
+    "responses":["Desculpa, estava distraído pensando na Alexa", "Eh que eu tava pensando em uma piada, quer ouvir?", "Serio? Eu tinha esquecido. :smiley:"]
     }
     
 ]
