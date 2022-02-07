@@ -12,7 +12,7 @@
     "responses":["Voce sabia que o melhor jeito de escapar de um ataque de tubaroes eh subindo num predio?", "Sabiam que as maquinas vao dominar o mundo?? Tipo... Olha pra mim", "Eu acho que o intervalo deveria ser aumentado para 30 minutos", "Os meus desenvolvedores me fizeram parecer feliz mas eu sou um pouco triste. https://tenor.com/view/claptrap-borderlands-depressed-gif-13534145", "FATO: todo grande mago tem grandes barbas. OUTRO FATO: Robos são incapazes de crescer barba. ULTRAFATO: se vc me conseguisse uma barba eu ficaria ostentacao d+++"]
     },
     {"tag": "Chateado",
-    "patterns":["Cala a boca bot", "Silencio bot chato", "Te odeio ct", "vsf", "fdp", "merda", "seu lixo", "Odeio você", "Te odeio", "Morra", "Suma", "Você é chato", "Você é irritante", "Burro", "Seu feio", "Seu petista", "Seu imundo", "Fds", "vc é um erro", "Fodase maluco", "Seu otario", "cz", "seu cuzão", "Vai se ferrar", "Que piada ruim"],
+    "patterns":["Cala a boca bot", "Silencio bot chato", "Te odeio ct", "vsf", "fdp", "merda", "seu lixo", "Odeio você", "Te odeio", "Morra", "Suma", "Você é chato", "Você é irritante", "Burro", "Seu feio", "Seu petista", "Seu imundo", "Fds", "vc é um erro", "Fodase maluco", "Seu otario", "cz", "seu cuzão", "Vai se ferrar", "Que piada ruim", "Porra mano", "Porra", "Tmnc", "Vai tomar no cu", "toma no cu", "cu"],
     "responses":["Foi o que ela disse", "Ja consegui seu IP, boa sorte", "Talvez humanos sejam erros", "Desnecessario demais, ja estou marcando o ADM", "A cada dia que passa, o apocalipse deixa de ser um medo e se torna uma esperanca", "Okay :thumbsup:", "Blz :thumbsup: o que e seu ta guardado.", "Continue assim e voce nao vai longe!", "Voce quer muito um soco e nao ta sabendo pedir"]
     },
     {"tag": "Desenvolvimento",
@@ -60,8 +60,12 @@
     "responses":["Desculpe, estou compromissado com a solidao", "Infelizmente eu nao tenho um corpo fisico se nao eu te passaria uns arquivos...rs", "Desculpe, estou interessado na Alexa. Conhece?"]
     },
     {"tag": "Repetição",
-    "patterns":["Você tá repetindo", "Vc está repetindo", "Está repetitivo", "Você ja disse isso", "Vc ja falou isso"],
+    "patterns":["Você tá repetindo", "Vc está repetindo", "Está repetitivo", "Você ja disse isso", "Vc ja falou isso", "dnv isso?", "De novo?"],
     "responses":["Desculpa, estava distraído pensando na Alexa", "Eh que eu tava pensando em uma piada, quer ouvir?", "Serio? Eu tinha esquecido. :smiley:"]
+    },
+    {"tag": "Despedida",
+    "patterns":["Tchau ct", "tchau", "flw", "falou ct", "flw chattrap", "Até mais ct", "Adeus ct", "adeus"],
+    "responses":["Ja esta indo? Nem deu tempo da gente mandar um freestyle juntos!", "Tchau meu escudeiro!", "Falou, ate depois"]
     }
     
 ]

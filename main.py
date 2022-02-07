@@ -16,7 +16,7 @@ chattrap.train_model()
 chattrap.save_model()
 
 # TOKEN = os.getenv('TOKEN')
-TOKEN = 'OTM4MDU4ODE0ODc0MzI1MDAy.YfkxWQ.QRPWi2z3PtuayBRIfxFZ61A7glM'
+TOKEN = ''
 
 @client.event
 async def on_connect():
