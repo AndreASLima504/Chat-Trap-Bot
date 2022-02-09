@@ -25,7 +25,7 @@
     },
     {"tag": "Tudo bem",
     "patterns":["td bem?", "Tudo bem?", "Como vai?", "Você está bem?", "Como você está?", "De boa?", "Vc ta bem?", "Tudo bom?", "Como você está se sentindo hoje?", "Como vc ta se sentindo?"],
-    "responses":["Se eu tivesse sentimentos eu diria que estou bem. Mas mal eu nao estou!", "Nada mal, e voce?"]
+    "responses":["Se eu tivesse sentimentos eu diria que estou bem. Mas mal eu nao estou!", "Nada mal, e voce?", "Eu so queria morrer!", ""]
     },
     {"tag": "Piadas",
     "patterns":["Conta uma piada", "Você conhece alguma piada?", "Sabe umas piadas?", "Consegue contar piada?", "Manda umas piadas", "Conta piada", "Diz uma piada","Conta piadinha", "Conta outra ai", "Manda mais uma"],
