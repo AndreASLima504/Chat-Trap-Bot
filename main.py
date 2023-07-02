@@ -15,8 +15,8 @@ chattrap = GenericAssistant('intents.json')
 chattrap.train_model()
 chattrap.save_model()
 
-# TOKEN = os.getenv('TOKEN')
-TOKEN = 'OTM4MDU4ODE0ODc0MzI1MDAy.YfkxWQ.l_avdH_5TGEhJAz7oWrxzD63278'
+TOKEN = os.getenv('TOKEN')
+# TOKEN = ''
 
 @client.event
 async def on_connect():
